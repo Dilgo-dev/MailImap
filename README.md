@@ -17,5 +17,5 @@ Follow the instructions below to get started with the NodeIMAP Email Client.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/node-imap-email-client.git
+   [git clone https://github.com/your-username/node-imap-email-client.git](https://github.com/Dilgo-dev/MailImap.git)https://github.com/Dilgo-dev/MailImap.git
    ```
